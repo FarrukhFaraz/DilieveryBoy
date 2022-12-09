@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752305226617",
+    "project_id": "dilieverybo",
+    "storage_bucket": "dilieverybo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752305226617:android:ff998d8dcd144c2e0de5a8",
+        "android_client_info": {
+          "package_name": "com.wrteam.eshop.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752305226617-elmdad0t07easmda94pl0a2mrpskntla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB26ILjayo6qzOQGy0ENlfc103dYNt0600"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752305226617-elmdad0t07easmda94pl0a2mrpskntla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
